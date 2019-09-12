@@ -1,0 +1,17 @@
+.main-nav {
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+
+    li {
+      padding: .5rem 1rem;
+      list-style: none;
+
+      a {
+        color: var(--font);
+      }
+    }
+  }
+}

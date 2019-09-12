@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import 'mixin.scss';
+
+@import 'partials/default.scss';
+@import 'partials/nav.scss';
+
+:root {
+  --darkBg: #212121;
+  --font: #FDFEFF;
+  --link: #46ff9b;
+}
